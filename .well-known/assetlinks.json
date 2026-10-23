@@ -3,6 +3,14 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
+      "package_name": "io.github.beeman.pocketaddress",
+      "sha256_cert_fingerprints": ["FF:0B:17:D0:72:99:7C:76:2C:4D:02:1C:23:58:1B:78:D4:E1:55:DB:2C:3E:83:20:B2:AE:B5:60:77:E8:5B:D3"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
       "package_name": "io.github.beeman.pocketaddresstwa.demo",
       "sha256_cert_fingerprints": ["EC:8D:14:22:93:F1:17:DC:EF:FA:C1:63:60:69:8F:6D:D9:7C:11:9D:AC:AC:DA:8D:60:48:7B:70:16:C3:5A:FC"]
     }
